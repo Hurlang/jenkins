@@ -1,1 +1,1 @@
-push
+deploy
